@@ -112,6 +112,16 @@ async function generatePDF() {
   // Read HTML to inject font paths as absolute file:// URLs
   let html = await readFile(inputPath, 'utf-8');
 
+  // Guard: refuse to render a template that still has unsubstituted {{TOKEN}}
+  // placeholders. Catches cases like a CV copied from templates/cv-template.html
+  // where {{NAME}} (etc.) was never filled in from cv.md before rendering.
+  const leftoverTokens = [...new Set((html.match(/\{\{\s*[\w.\-]+\s*\}\}/g) || []))];
+  if (leftoverTokens.length > 0) {
+    console.error(`❌ Refusing to render: unsubstituted template placeholders found: ${leftoverTokens.join(', ')}`);
+    console.error('   Fill every {{TOKEN}} from cv.md (name, contact, experience, etc.) before generating the PDF.');
+    process.exit(1);
+  }
+
   // Resolve font paths relative to career-ops/fonts/
   const fontsDir = resolve(__dirname, 'fonts');
   html = html.replace(
