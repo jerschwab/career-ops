@@ -11,3 +11,8 @@
 - [ ] https://www.civicjobs.ca/jobs?id=114017 | Township of Langley | Senior Buyer (Metro Van BC)
 - [ ] https://www.jobbank.gc.ca/jobsearch/jobposting/49776715 | Unknown (Delta BC) | Planner / Allocation Planner
 - [ ] https://www.roberthalf.com/ca/en/job/vancouver-bc/supply-chain-specialist/05060-0013443037-caen | Robert Half | Supply Chain Specialist (Vancouver BC, contract)
+
+## Pending (daily scan 2026-07-10)
+
+- [ ] https://jobs.interiorhealth.ca/ViewJobPosting/2364394 | Interior Health | Specialist - Business Analyst (Kelowna)
+- [ ] https://jobs.interiorhealth.ca/ViewJobPosting/2407146 | Interior Health | Financial Business Analyst (Kelowna)
