@@ -16,3 +16,8 @@
 
 - [ ] https://jobs.interiorhealth.ca/ViewJobPosting/2364394 | Interior Health | Specialist - Business Analyst (Kelowna)
 - [ ] https://jobs.interiorhealth.ca/ViewJobPosting/2407146 | Interior Health | Financial Business Analyst (Kelowna)
+
+## Pending (daily scan 2026-07-11)
+
+- [ ] https://jobs.interiorhealth.ca/ViewJobPosting/2196656 | Interior Health | Business Systems Analyst
+- [ ] https://jobs.interiorhealth.ca/job/kelowna/business-analyst/602/15514341 | Interior Health | Business Analyst (Kelowna)
