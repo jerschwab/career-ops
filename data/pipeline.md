@@ -21,3 +21,7 @@
 
 - [ ] https://jobs.interiorhealth.ca/ViewJobPosting/2196656 | Interior Health | Business Systems Analyst
 - [ ] https://jobs.interiorhealth.ca/job/kelowna/business-analyst/602/15514341 | Interior Health | Business Analyst (Kelowna)
+
+## Pending (daily scan 2026-07-14)
+
+- [ ] https://www.randstad.ca/jobs/supply-chain-planner_vancouver_46114423/ | Randstad | Supply Chain Planner (Vancouver BC, contract)
