@@ -25,3 +25,8 @@
 ## Pending (daily scan 2026-07-14)
 
 - [ ] https://www.randstad.ca/jobs/supply-chain-planner_vancouver_46114423/ | Randstad | Supply Chain Planner (Vancouver BC, contract)
+
+## Pending (daily scan 2026-07-15)
+
+- [ ] https://jobs.ashbyhq.com/andromeda/85b75188-2beb-4547-9649-def49422303a | Andromeda | Head of Procurement/Supply Chain (Global Remote — verify Canada eligibility)
+- [ ] https://www.randstad.ca/jobs/business-systems-analyst_vancouver_44329932/ | Randstad | Business Systems Analyst (Vancouver BC, contract)
