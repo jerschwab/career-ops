@@ -30,3 +30,10 @@
 
 - [ ] https://jobs.ashbyhq.com/andromeda/85b75188-2beb-4547-9649-def49422303a | Andromeda | Head of Procurement/Supply Chain (Global Remote — verify Canada eligibility)
 - [ ] https://www.randstad.ca/jobs/business-systems-analyst_vancouver_44329932/ | Randstad | Business Systems Analyst (Vancouver BC, contract)
+
+## Pending (daily scan 2026-07-16)
+
+- [ ] https://www.on.jobbank.gc.ca/jobsearch/jobposting/49706994 | Job Bank | Procurement Manager (Kelowna BC — on-site)
+- [ ] https://www.jobbank.gc.ca/jobsearch/jobposting/49882984 | Job Bank | Procurement Specialist (Richmond BC — Metro Van area, verify comp ≥$110K)
+- [ ] https://www.randstad.ca/jobs/procurement-manager_chilliwack_46924623/ | Randstad | Procurement Manager (Chilliwack BC, hybrid/flexible, $100-120K — verify remote eligibility)
+- [ ] https://www.civicjobs.ca/jobs?id=113461 | City of Vancouver | Business Analyst — Fleet & Manufacturing Services (Metro Van, verify comp ≥$110K)
