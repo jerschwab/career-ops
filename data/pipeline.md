@@ -37,3 +37,8 @@
 - [ ] https://www.jobbank.gc.ca/jobsearch/jobposting/49882984 | Job Bank | Procurement Specialist (Richmond BC — Metro Van area, verify comp ≥$110K)
 - [ ] https://www.randstad.ca/jobs/procurement-manager_chilliwack_46924623/ | Randstad | Procurement Manager (Chilliwack BC, hybrid/flexible, $100-120K — verify remote eligibility)
 - [ ] https://www.civicjobs.ca/jobs?id=113461 | City of Vancouver | Business Analyst — Fleet & Manufacturing Services (Metro Van, verify comp ≥$110K)
+
+## Pending (daily scan 2026-07-17)
+
+- [ ] https://jobs.interiorhealth.ca/ViewJobPosting/2424654 | Interior Health | Senior Strategic Business Advisor (Kelowna, permanent full-time — posted ~1 week ago)
+- [ ] https://jobs.interiorhealth.ca/ViewJobPosting/2074457 | Interior Health | Procurement Advisor (Kelowna — verify posting still active)
