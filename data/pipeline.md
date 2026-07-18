@@ -42,3 +42,8 @@
 
 - [ ] https://jobs.interiorhealth.ca/ViewJobPosting/2424654 | Interior Health | Senior Strategic Business Advisor (Kelowna, permanent full-time — posted ~1 week ago)
 - [ ] https://jobs.interiorhealth.ca/ViewJobPosting/2074457 | Interior Health | Procurement Advisor (Kelowna — verify posting still active)
+
+## Pending (daily scan 2026-07-18)
+
+- [ ] https://www.civicjobs.ca/jobs?id=114787 | School District No. 36 (Surrey) | Strategic Sourcing Lead (Metro Van — verify comp ≥$110K)
+- [ ] https://www.civicjobs.ca/jobs?id=114779 | City of Maple Ridge | Senior Buyer — temp 2yr (Metro Van — verify comp ≥$110K)
