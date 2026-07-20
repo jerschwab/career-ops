@@ -47,3 +47,7 @@
 
 - [ ] https://www.civicjobs.ca/jobs?id=114787 | School District No. 36 (Surrey) | Strategic Sourcing Lead (Metro Van — verify comp ≥$110K)
 - [ ] https://www.civicjobs.ca/jobs?id=114779 | City of Maple Ridge | Senior Buyer — temp 2yr (Metro Van — verify comp ≥$110K)
+
+## Pending (daily scan 2026-07-20)
+
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7804439003 | Celonis | Senior Consultant – Supply Chain Management (verify Canada eligibility)
