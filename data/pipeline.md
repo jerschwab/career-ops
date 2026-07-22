@@ -51,3 +51,8 @@
 ## Pending (daily scan 2026-07-20)
 
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7804439003 | Celonis | Senior Consultant – Supply Chain Management (verify Canada eligibility)
+
+## Pending (daily scan 2026-07-22)
+
+- [ ] https://jobs.lever.co/fullscript/fa5d40af-cfcc-43ec-97c9-d4fad22f4b5d | Fullscript | Vice President, Merchandising & Supply Operations (Remote Canada, ~$150K — S&OP/SIOP/demand-driven model, 10+ yrs SC)
+- [ ] https://www.civicjobs.ca/jobs?id=114949 | City of Vernon | Business Analyst — Applications (Vernon BC, 2yr term, ~$95K/yr, closes Aug 5 — verify hybrid/on-site)
