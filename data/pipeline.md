@@ -60,3 +60,8 @@
 ## Pending (daily scan 2026-07-23)
 
 - [ ] https://www.civicjobs.ca/jobs?id=113324 | City of Nanaimo | Assistant Manager, Procurement (Nanaimo BC — verify remote/hybrid eligibility and comp)
+
+## Pending (daily scan 2026-07-24)
+
+- [ ] https://www.civicjobs.ca/jobs?id=114934 | City of Campbell River | Purchasing & Risk Management Officer (Campbell River BC — verify remote/hybrid eligibility, deadline Aug 7)
+- [ ] https://www.jobbank.gc.ca/jobsearch/jobposting/49883176 | VIVCO Inc. | Procurement Specialist (Richmond BC, Metro Van — verify comp ≥$110K, SAP/ERP role)
