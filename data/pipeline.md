@@ -65,3 +65,7 @@
 
 - [ ] https://www.civicjobs.ca/jobs?id=114934 | City of Campbell River | Purchasing & Risk Management Officer (Campbell River BC — verify remote/hybrid eligibility, deadline Aug 7)
 - [ ] https://www.jobbank.gc.ca/jobsearch/jobposting/49883176 | VIVCO Inc. | Procurement Specialist (Richmond BC, Metro Van — verify comp ≥$110K, SAP/ERP role)
+
+## Pending (daily scan 2026-07-25)
+
+- [ ] https://www.civicjobs.ca/jobs?id=114754 | City of Burnaby | Business Analyst 1 (Burnaby/Metro Van — verify comp ≥$110K before proceeding)
