@@ -69,3 +69,7 @@
 ## Pending (daily scan 2026-07-25)
 
 - [ ] https://www.civicjobs.ca/jobs?id=114754 | City of Burnaby | Business Analyst 1 (Burnaby/Metro Van — verify comp ≥$110K before proceeding)
+
+## Pending (daily scan 2026-07-26)
+
+- [ ] https://www.civicjobs.ca/jobs?id=113608 | Cowichan Valley Regional District | Procurement Specialist (Cowichan Valley BC — verify remote/hybrid eligibility and comp)
