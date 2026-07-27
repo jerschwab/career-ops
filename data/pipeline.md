@@ -73,3 +73,7 @@
 ## Pending (daily scan 2026-07-26)
 
 - [ ] https://www.civicjobs.ca/jobs?id=113608 | Cowichan Valley Regional District | Procurement Specialist (Cowichan Valley BC — verify remote/hybrid eligibility and comp)
+
+## Pending (daily scan 2026-07-27)
+
+- [ ] https://www.civicjobs.ca/jobs?id=113984 | City of Vancouver | SAP Business Analyst (Metro Van — verify comp ≥$110K, regular full-time starting Aug 2026, ERP/SAP focus)
