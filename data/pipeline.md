@@ -77,3 +77,7 @@
 ## Pending (daily scan 2026-07-27)
 
 - [ ] https://www.civicjobs.ca/jobs?id=113984 | City of Vancouver | SAP Business Analyst (Metro Van — verify comp ≥$110K, regular full-time starting Aug 2026, ERP/SAP focus)
+
+## Pending (daily scan 2026-07-29)
+
+- [ ] https://jobs.ashbyhq.com/lyric/1a74c273-85db-4127-9a90-77773bc69c03 | Lyric | Professional Services Delivery Lead / Senior Consultant (supply chain AI platform — verify Canada remote eligibility)
