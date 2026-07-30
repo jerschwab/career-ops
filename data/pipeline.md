@@ -81,3 +81,7 @@
 ## Pending (daily scan 2026-07-29)
 
 - [ ] https://jobs.ashbyhq.com/lyric/1a74c273-85db-4127-9a90-77773bc69c03 | Lyric | Professional Services Delivery Lead / Senior Consultant (supply chain AI platform — verify Canada remote eligibility)
+
+## Pending (daily scan 2026-07-30)
+
+- [ ] https://jobs.ashbyhq.com/Flagshiprtl/7f3f8073-76f0-4151-8a6f-912cb282ad65 | FlagshipRTL | Analytics Lead (verify Canada remote eligibility and supply chain relevance)
