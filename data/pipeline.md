@@ -85,3 +85,7 @@
 ## Pending (daily scan 2026-07-30)
 
 - [ ] https://jobs.ashbyhq.com/Flagshiprtl/7f3f8073-76f0-4151-8a6f-912cb282ad65 | FlagshipRTL | Analytics Lead (verify Canada remote eligibility and supply chain relevance)
+
+## Pending (daily scan 2026-07-31)
+
+- [ ] https://app.bchydro.com/sap(bD1lbiZjPTEwMA==)/bc/bsp/sap/hrrcf_wd_dovru/application.do?PARAM=cmNmdHlwZT1waW5zdCZwaW5zdD0zQTE4NEMxNEExMEIxRUU1OERBRDlGQjNDNEVCQzVGMA%3D%3D | BC Hydro | SAP Supply Chain Management role (verify title — BC-based likely Metro Van, confirm comp ≥$110K)
