@@ -89,3 +89,8 @@
 ## Pending (daily scan 2026-07-31)
 
 - [ ] https://app.bchydro.com/sap(bD1lbiZjPTEwMA==)/bc/bsp/sap/hrrcf_wd_dovru/application.do?PARAM=cmNmdHlwZT1waW5zdCZwaW5zdD0zQTE4NEMxNEExMEIxRUU1OERBRDlGQjNDNEVCQzVGMA%3D%3D | BC Hydro | SAP Supply Chain Management role (verify title — BC-based likely Metro Van, confirm comp ≥$110K)
+
+## Pending (daily scan 2026-08-02)
+
+- [ ] https://www.jobbank.gc.ca/jobsearch/jobposting/49994506 | Job Bank | Supply Chain Manager (Delta BC — Metro Van, verify comp ≥$110K)
+- [ ] https://www.civicjobs.ca/jobs?id=115214 | City of Vancouver | Decision Support Analyst ($103K–$129K, Metro Van — comp likely ≥$110K ✓, analytics/BI role, deadline Aug 16)
