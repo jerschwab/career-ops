@@ -94,3 +94,7 @@
 
 - [ ] https://www.jobbank.gc.ca/jobsearch/jobposting/49994506 | Job Bank | Supply Chain Manager (Delta BC — Metro Van, verify comp ≥$110K)
 - [ ] https://www.civicjobs.ca/jobs?id=115214 | City of Vancouver | Decision Support Analyst ($103K–$129K, Metro Van — comp likely ≥$110K ✓, analytics/BI role, deadline Aug 16)
+
+## Pending (daily scan 2026-08-04)
+
+- [ ] https://www.civicjobs.ca/jobs?id=115127 | Columbia Basin Trust | Manager, Procurement & Operations (Trail BC — verify remote/hybrid eligibility, expires Aug 23)
