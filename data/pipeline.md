@@ -102,3 +102,7 @@
 ## Pending (daily scan 2026-08-08)
 
 - [ ] https://jobs.smartrecruiters.com/PRT/744000089106255-director-supply-chain | PRT (Growing Services) | Director, Supply Chain (Armstrong BC — ~90km from Kelowna, $120K–$150K, Director-level, 27 nurseries + 14 seed orchards across N. America, reports to VP Operations Canada)
+
+## Pending (daily scan 2026-08-13)
+
+- [ ] https://www.jobbank.gc.ca/jobsearch/jobposting/50056845 | Job Bank | Supply Chain Director (Vancouver BC — Metro Van, director-level, verify comp ≥$110K and remote/hybrid terms)
